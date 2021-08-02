@@ -34,11 +34,11 @@
                 </a>
             @endforeach
         @endif
-        <div class="mdui-divider"></div>
-        <a href="https://github.com/wangningkai/OLAINDEX"
+        <!--<div class="mdui-divider"></div>-->
+        <!--<a href="https://github.com/wangningkai/OLAINDEX"
            class="mdui-list-item mdui-ripple mdui-hidden-sm-up">
             <i class="mdui-list-item-icon mdui-icon material-icons">code</i>
             <div class="mdui-list-item-content">Github</div>
-        </a>
+        </a>-->
     </div>
 </div>
