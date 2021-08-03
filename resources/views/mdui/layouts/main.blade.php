@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="preconnect" href="https://cdn.staticfile.org">
-    <link rel="preconnect" href="https://cdn.jsdelivr.net">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://www.bootcdn.cn">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -15,13 +14,8 @@
     <link rel="shortcut icon" href="/favicon.ico"/>
     <meta name="theme-color" content="#fff"/>
     <title>OLAINDEX</title>
-    <link
-        rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/mdui@1.0.1/dist/css/mdui.min.css"
-        integrity="sha384-cLRrMq39HOZdvE0j6yBojO4+1PrHfB7a9l5qLcmRm/fiWXYY+CndJPmyu5FV/9Tw"
-        crossorigin="anonymous"
-    />
-    <link rel="stylesheet" href="https://cdn.staticfile.org/github-markdown-css/4.0.0/github-markdown.min.css">
+    <link href="https://cdn.bootcdn.net/ajax/libs/mdui/1.0.1/css/mdui.min.css" rel="stylesheet">
+    <link href="https://cdn.bootcdn.net/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{ asset('css/mdui.css') }}">
     <link rel="stylesheet" href="{{ asset('css/notosans.css') }}">
     @stack('stylesheet')
@@ -60,14 +54,10 @@
         </div>
     </div>
 </footer>
-<script
-    src="https://cdn.jsdelivr.net/npm/mdui@1.0.1/dist/js/mdui.min.js"
-    integrity="sha384-gCMZcshYKOGRX9r6wbDrvF+TcCCswSHFucUzUPwka+Gr+uHgjlYvkABr95TCOz3A"
-    crossorigin="anonymous"
-></script>
-<script src="https://cdn.staticfile.org/clipboard.js/2.0.6/clipboard.min.js"></script>
-<script src="https://cdn.staticfile.org/axios/0.21.0/axios.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/store@2/dist/store.everything.min.js"></script>
+<script src="https://cdn.bootcdn.net/ajax/libs/mdui/1.0.1/js/mdui.min.js"></script>
+<script src="https://cdn.bootcdn.net/ajax/libs/clipboard.js/2.0.6/clipboard.min.js"></script>
+<script src="https://cdn.bootcdn.net/ajax/libs/axios/0.21.0/axios.min.js"></script>
+<script src="https://cdn.bootcdn.net/ajax/libs/store.js/2.0.0/store.everything.min.js"></script>
 <script>
     const $ = mdui.$
     window.mdui = mdui
