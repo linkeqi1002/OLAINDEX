@@ -5,7 +5,6 @@
     <script src="https://cdn.bootcdn.net/ajax/libs/dplayer/1.25.1/DPlayer.min.js"></script>
     <script src="https://cdn.bootcdn.net/ajax/libs/hls.js/1.0.8-0.canary.7807/hls.min.js"></script>
     <script src="https://cdn.bootcdn.net/ajax/libs/flv.js/1.6.1/flv.min.js"></script>
-    <script src="https://cdn.bootcdn.net/ajax/libs/shaka-player/3.2.0/shaka-player.compiled.min.js"></script>
     <script>
         $(function () {
             const dp = new DPlayer({
