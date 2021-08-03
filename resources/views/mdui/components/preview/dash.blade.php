@@ -1,9 +1,9 @@
 @push('stylesheet')
-    <link rel="stylesheet" href="https://cdn.staticfile.org/dplayer/1.25.0/DPlayer.min.css">
+    <link href="https://cdn.bootcdn.net/ajax/libs/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
 @endpush
 @push('scripts')
-    <script src="https://cdn.staticfile.org/dashjs/3.1.1/dash.all.min.js"></script>
-    <script src="https://cdn.staticfile.org/dplayer/1.25.1/DPlayer.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/dashjs/4.0.1/dash.all.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/dplayer/1.25.1/DPlayer.min.js"></script>
     <script>
         const dp = new DPlayer({
             container: document.getElementById('dash-player'),
