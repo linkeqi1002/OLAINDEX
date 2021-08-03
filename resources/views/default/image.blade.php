@@ -51,7 +51,7 @@
     </div>
 @stop
 @push('stylesheet')
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/filepond@4.23.1/dist/filepond.min.css">
+    <link href="https://cdn.bootcdn.net/ajax/libs/filepond/4.23.1/filepond.min.css" rel="stylesheet">
     <link rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/filepond-plugin-image-preview@4.6.4/dist/filepond-plugin-image-preview.min.css">
     <style>
@@ -69,7 +69,7 @@
     </style>
 @endpush
 @push('scripts')
-    <script src="https://cdn.jsdelivr.net/npm/filepond@4.23.1/dist/filepond.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/filepond/4.23.1/filepond.min.js"></script>
     <script
         src="https://cdn.jsdelivr.net/npm/filepond-plugin-image-preview@4.6.4/dist/filepond-plugin-image-preview.min.js"></script>
     <script
