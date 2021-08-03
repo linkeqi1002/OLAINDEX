@@ -3,7 +3,6 @@
 
 <head>
     <link rel="preconnect" href="https://cdn.staticfile.org">
-    <link rel="preconnect" href="https://cdn.jsdelivr.net">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preconnect" href="https://www.bootcdn.cn">
