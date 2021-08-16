@@ -13,7 +13,6 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="shortcut icon" href="/favicon.ico"/>
     <meta name="theme-color" content="#fff"/>
-    <title>OLAINDEX</title>
     <link href="https://cdn.bootcdn.net/ajax/libs/mdui/1.0.1/css/mdui.min.css" rel="stylesheet">
     <link href="https://cdn.bootcdn.net/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{ asset('css/mdui.css') }}">
