@@ -8,8 +8,8 @@
                         <img src="https://i.loli.net/2018/12/07/5c09d18d9b255.png" alt=""/>
                         <div class="mdui-card-media-covered">
                             <div class="mdui-card-primary">
-                                <div class="mdui-card-primary-title">OLAINDEX</div>
-                                <div class="mdui-card-primary-subtitle">✨ Another OneDrive Directory Index.</div>
+                                <div class="mdui-card-primary-title">BJAnyList</div>
+                                <div class="mdui-card-primary-subtitle">Directory index.</div>
                             </div>
                         </div>
                     </div>
